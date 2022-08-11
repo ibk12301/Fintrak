@@ -1,0 +1,75 @@
+body {
+    margin: 20px;
+    padding: 0px;
+  }
+  #Container {
+    width: 1280px;
+    height: 800px;
+  }
+  .HeaderNavigation {
+    height: 100px;
+    width: auto;
+  }
+  .HeaderNavigation img {
+    float: left;
+    width: 150px;
+  }
+  .HeaderNavigation ul li {
+    list-style-type: none;
+    float: right;
+    margin: 5px;
+    text-decoration: underline;
+    color: white;
+  }
+  .section2 image {
+    position: fixed;
+    top: -70%;
+    left: -50%;
+    width: 100%;
+    height: 100%;
+  }
+  .section2 h2 {
+    font-size: 70px;
+    color: rgb(250, 249, 249);
+    text-align: left;
+    font-style: unset;
+  }
+  .section2 h5 {
+    font-size: 30px;
+    color: whitesmoke;
+    text-align: left;
+  }
+  .con {
+    color: white;
+    background: rgba(202, 53, 53, 0.945);
+    border-radius: 6px;
+    width: 170px;
+    height: 50px;
+    font-size: 20px;
+  }
+  .sec3 img {
+    position: absolute;
+    right: 100px;
+    float: right;
+    width: 500px;
+    height: 500px;
+  }
+  .sec3 h2 {
+    font-size: 45px;
+    color: rgb(7, 7, 7);
+  }
+  .sec3 p {
+    font-size: 20px;
+    color: rgb(7, 7, 7);
+  }
+  .learn {
+    color: white;
+    background: red;
+    border-radius: 6px;
+    width: 170px;
+    height: 50px;
+  }
+  .sec4 img {
+    width: 200px;
+    height: 300px;
+  }
